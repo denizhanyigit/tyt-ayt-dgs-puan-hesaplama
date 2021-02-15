@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hesaplama</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="hakkindaIcerik">Uygulamada TYT-AYT ve DGS puan hesaplama yazılımlarımız mevcuttur. Bunlar sayesinde TYT puanınız  hesaplanır, AYT SAY(sayısal), EA(eşit ağırlık), SOZ(sözel) ve yabancı dil puanlarınız hesaplanır. DGS için ise yine aynı şekilde SAY(sayısal), EA(eşit ağırlık) ve SOZ(sözel) puanlarınız hesaplanır.
+    Tüm hesaplamalar 2020 verilerine dayanarak en doğru şekilde yapılmaktadır. Fakat her yıl değişen soru katsayıları ve standart sapma değerlerinden dolayı sonuçların %100 doğruluk payı bulunmamaktadır. Sonuçlar tamamen bilgi amaçlı olup, herhangi bir resmi geçerliliği yoktur.
+    </string>
+    <string name="sitem"><a href="www.denizhanyigit.com">www.denizhanyigit.com</a></string>
+
+
+</resources>

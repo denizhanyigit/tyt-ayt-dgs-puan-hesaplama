@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item android:title="KATEGORİLER">
+       <menu>
+           <item
+               android:id="@+id/yks"
+               android:icon="@android:drawable/star_big_off"
+               android:title="YKS(TYT-AYT)" />
+           <item
+               android:id="@+id/dgs"
+               android:icon="@android:drawable/star_big_off"
+               android:title="DGS" />
+
+       </menu>
+   </item>
+
+    <item android:title="DİĞER">
+        <menu>
+            <item
+                android:id="@+id/hakkinda"
+                android:icon="@android:drawable/ic_dialog_info"
+                android:title="UYGULAMA HAKKINDA" />
+            <item
+                android:id="@+id/paylas"
+                android:icon="?attr/actionModeShareDrawable"
+                android:title="PAYLAŞ" />
+
+        </menu>
+    </item>
+</menu>
